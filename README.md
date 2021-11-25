@@ -3,7 +3,6 @@
 - 프론트 : html / css / js / sass / react / redux / redux-saga
 - 백엔드 : node.js / koa / mongoDB
 - 로그인 , 포스트 CRUD , 이미지업로드 구현
-- 모바일 최적
 - CORS proxy 사용
 - XSS 쿠키 httpOnly , sanitizeHtml 사용
 - axios 이용한 비동기 통신
